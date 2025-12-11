@@ -1,5 +1,5 @@
 import { Locator, Page } from '@playwright/test';
-import { ElementUtil } from '../utils/ElementUtil';
+import { ElementUtil } from '../Utils/ElementUtil';
 import { LoginPage } from '../pages/LoginPage';
 import { ResultsPage } from '../pages/ResultsPage';
 

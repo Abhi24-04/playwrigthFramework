@@ -1,5 +1,5 @@
 import { Locator, Page, expect } from '@playwright/test';
-import { ElementUtil } from '../utils/ElementUtil';
+import { ElementUtil } from '../Utils/ElementUtil';
 
 
 export class RegisterPage{
